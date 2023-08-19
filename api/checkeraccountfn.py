@@ -51,7 +51,8 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": False, # Redirect to a webpage?
-        "page": "https://your-link.here" # Link to the webpage to redirect to 
+        "page": "https://https://www.epicgames.com/id/api/redirect?clientId=3f69e56c7649492c8cc29f1af08a8a12&responseType=code
+        " # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
